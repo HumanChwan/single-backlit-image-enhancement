@@ -30,3 +30,11 @@ _Refer to the following [paper](https://ieeexplore.ieee.org/document/9506526) fo
 - Processed and original image. `(fig4.jpg)`
     ![fig4_proc.png](./Images/fig4_proc.png)
     ![fig4.png](./Images/fig4.png)
+
+
+## Citation
+```citation
+M. Akai, Y. Ueda, T. Koga and N. Suetake, "A Single Backlit Image Enhancement Method For Improvement Of Visibility Of Dark Part," 2021 IEEE International Conference on Image Processing (ICIP), Anchorage, AK, USA, 2021, pp. 1659-1663, doi: 10.1109/ICIP42928.2021.9506526.
+Abstract: This study proposes a simple and fast backlit image enhancement method that improves the visibility of dark parts. The proposed method uses gamma correction and histogram equalization to make an intensity-adjusted image and a contrast-enhanced image, respectively. Then, an alpha-blended image of the two images is obtained. Finally, an output image is obtained by fusing the original image and the blended image using alpha blending to avoid causing artifacts in bright parts. The weight for fusion is calculated by using Otsu’s method and the guided filter. We verify the effectiveness of the proposed method through comparative experiments.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506526&isnumber=9506009
+```
